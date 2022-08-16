@@ -3,6 +3,7 @@
 // SC ORI HYZER
 // CREATOR KRIZYN OFC
 // RECODE BY ZIFABOTZ
+// Dan di recode kembali Oleh HamzBotz
 
 //=============『 Utama 』================== //
 global.owner = ['6288214989352'] //ganti pakai nomormu biar bot berfungsi
@@ -34,14 +35,14 @@ global.nomer = 'https://wa.me/6288214989352' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/2f4105651a1d9aba5a3fc.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/2f4105651a1d9aba5a3fc.jpg' //ini juga ganti pakai foto bot mu
-global.fotonya3 = 'https://telegra.ph/file/2f4105651a1d9aba5a3fc.jpg' //ini juga ganti
-global.fotonya4 = 'https://telegra.ph/file/2f4105651a1d9aba5a3fc.jpg' //ini juga ganti
-global.fotonya5 = 'https://telegra.ph/file/2f4105651a1d9aba5a3fc.jpg' //ini juga ganti
-global.fotonya6 = 'https://telegra.ph/file/2f4105651a1d9aba5a3fc.jpg' //ini ganti pakai foto sosialmedia mu
-global.fotonya7 = 'https://telegra.ph/file/2f4105651a1d9aba5a3fc.jpg' //ini juga ganti
-global.fotonya8 = 'https://telegra.ph/file/2f4105651a1d9aba5a3fc.jpg' //foto session
+global.fotonya1 = 'https://telegra.ph/file/4b333eab88fc6b045862a.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/4b333eab88fc6b045862a.jpg' //ini juga ganti pakai foto bot mu
+global.fotonya3 = 'https://telegra.ph/file/4b333eab88fc6b045862a.jpg' //ini juga ganti
+global.fotonya4 = 'https://telegra.ph/file/4b333eab88fc6b045862a.jpg' //ini juga ganti
+global.fotonya5 = 'https://telegra.ph/file/4b333eab88fc6b045862a.jpg' //ini juga ganti
+global.fotonya6 = 'https://telegra.ph/file/4b333eab88fc6b045862a.jpg' //ini ganti pakai foto sosialmedia mu
+global.fotonya7 = 'https://telegra.ph/file/4b333eab88fc6b045862a.jpg' //ini juga ganti
+global.fotonya8 = 'https://telegra.ph/file/4b333eab88fc6b045862a.jpg' //foto session
 global.donasi = 'https://telegra.ph/file/4720d8dc811569a29e48f.jpg' //ganti pakai poto payment atau apa
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
